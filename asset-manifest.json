@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SNULION_week9_demo/static/css/main.3e493887.css",
-    "main.js": "/SNULION_week9_demo/static/js/main.1ae41cb4.js",
+    "main.js": "/SNULION_week9_demo/static/js/main.bdbcda2a.js",
     "static/js/787.83c78725.chunk.js": "/SNULION_week9_demo/static/js/787.83c78725.chunk.js",
     "index.html": "/SNULION_week9_demo/index.html",
     "main.3e493887.css.map": "/SNULION_week9_demo/static/css/main.3e493887.css.map",
-    "main.1ae41cb4.js.map": "/SNULION_week9_demo/static/js/main.1ae41cb4.js.map",
+    "main.bdbcda2a.js.map": "/SNULION_week9_demo/static/js/main.bdbcda2a.js.map",
     "787.83c78725.chunk.js.map": "/SNULION_week9_demo/static/js/787.83c78725.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e493887.css",
-    "static/js/main.1ae41cb4.js"
+    "static/js/main.bdbcda2a.js"
   ]
 }
